@@ -28,4 +28,8 @@ Backend:
 - 📧 Email: [evan_desu@hotmail.com](mailto:evan_desu@hotmail.com)
 - 👥 LinkedIn: [Evan Peterson](https://www.linkedin.com/in/evan-peterson-desu/)
 
+## My GitHub Stats
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-desu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-desu&layout=compact)
+
 ## Thanks for visiting my profile. Happy coding! 👨‍💻
