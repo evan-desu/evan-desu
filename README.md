@@ -6,12 +6,15 @@ I'm currently working as a Product Owner and Full Stack Engineer on [Kinjo](http
 
 ## 🔧 My Tech Stack
 
+Languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+Frontend:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-C69?style=flat-square&logo=sass)
 
+Backend:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)
 ![Knex.js](https://img.shields.io/badge/-Knex.js-grey?style=flat-square&logo=knex)
