@@ -26,6 +26,6 @@ Backend:
 ## 📫 How to reach me
 
 - 📧 Email: [evan_desu@hotmail.com](mailto:evan_desu@hotmail.com)
-- 👥 LinkedIn: [Evan Peterson](https://www.linkedin.com/in/evan-peterson-desu/))
+- 👥 LinkedIn: [Evan Peterson](https://www.linkedin.com/in/evan-peterson-desu/)
 
 ## Thanks for visiting my profile. Happy coding! 👨‍💻
