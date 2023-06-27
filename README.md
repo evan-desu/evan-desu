@@ -1,4 +1,4 @@
-### Hi there , I'm Evan 👋
+## Hi there , I'm Evan 👋
 
 I'm a Full Stack Developer based in Yokohama, Japan. I love building applications from scratch and solving complex problems.
 
