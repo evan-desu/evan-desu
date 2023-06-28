@@ -29,7 +29,7 @@ Backend:
 - 👥 LinkedIn: [Evan Peterson](https://www.linkedin.com/in/evan-peterson-desu/)
 
 ## My GitHub Stats
-[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-desu&show_icons=true&count_private=true)](https://github.com/evan-desu)
+[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-desu)](https://github.com/evan-desu/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evan-desu&layout=compact)
 
