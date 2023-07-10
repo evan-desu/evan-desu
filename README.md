@@ -17,7 +17,7 @@ Frontend:
 Backend:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)
-![Knex.js](https://img.shields.io/badge/-Knex.js-grey?style=flat-square&logo=knex)
+![Knex.js](https://img.shields.io/badge/-Knex.js-orange?style=flat-square&logo=knex)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
