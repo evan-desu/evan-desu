@@ -8,7 +8,7 @@ I'm currently working as Product Owner and Full Stack Engineer on [Kinjo](http:/
 
 Languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 
 Frontend:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
