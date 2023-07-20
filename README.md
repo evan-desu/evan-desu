@@ -9,6 +9,7 @@ I'm currently working as a full-stack engineer on [Kinjo](http://www.kinjo-japan
 Languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Frontend:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -19,7 +20,6 @@ Backend:
 ![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)
 ![Knex.js](https://img.shields.io/badge/-Knex.js-orange?style=flat-square&logo=knex)
 ![Prisma](https://img.shields.io/badge/-Prisma-purple?style=flat-square&logo=prisma)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
