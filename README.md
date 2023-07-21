@@ -20,9 +20,9 @@ Frontend:
 ![Sass](https://img.shields.io/badge/-Sass-C69?style=flat-square&logo=sass&logoColor=white)
 
 Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)
-![Knex.js](https://img.shields.io/badge/-Knex.js-orange?style=flat-square&logo=knex)
+![Node.js](https://img.shields.io/badge/-Node-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-grey?style=flat-square&logo=express)
+![Knex.js](https://img.shields.io/badge/-Knex-orange?style=flat-square&logo=knex)
 ![Prisma](https://img.shields.io/badge/-Prisma-purple?style=flat-square&logo=prisma)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
