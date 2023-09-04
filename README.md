@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer based in Yokohama, Japan. I love building applications from scratch and solving problems.
 
-I'm currently working as a full-stack engineer on [Kinjo](http://www.kinjo-japan.com).
+I'm currently working as a backend engineer on [Kinjo](https://www.findadoc.jp/).
 
 ## 🔧 My Tech Stack
 
