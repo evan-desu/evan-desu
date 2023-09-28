@@ -24,7 +24,7 @@ I'm a Full Stack Developer based in Yokohama, Japan. I love building application
 
 ## 🔧 My Tech Stack
 
-<a href="(https://www.typescriptlang.org/docs/)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=40/></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=40/></a>
 <a href="(https://developer.mozilla.org/en-US/docs/Web/JavaScript)"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height=40/></a>
 <a href="(https://docs.python.org/3/)"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height=40/></a>
 <a href="(https://www.postgresql.org/docs/)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" height=40/></a>
