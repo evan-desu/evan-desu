@@ -4,17 +4,40 @@ I'm a Full Stack Developer based in Yokohama, Japan. I love building application
 
 ## 🌏 Open-Source Projects
 
-1. [Find a Doc](https://github.com/ourjapanlife/findadoc-server): Find a Doc is a database to help foreign residents of Japan find healthcare in their native languages.  
+1. [Find a Doc](https://github.com/ourjapanlife/): Find a Doc is a database to help foreign residents of Japan find healthcare in their native languages.
+
+   Technologies Used:
+   
+   <a href="(https://www.typescriptlang.org/docs/)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=30/></a>
+   <a href="(https://graphql.org/learn/)"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=30/></a>
+   <a href="(https://firebase.google.com/docs)"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=30/></a>
+   <a href="(https://jestjs.io/docs/getting-started)"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=30/></a>
 
     Key Responsibilities: 
-    * Backend Engineer
-    * Building a database and API using GraphQL and Firebase
+    * **Firestore Security Implementation**: Configured secure access protocols for Firestore to ensure data integrity and confidentiality of user information.
+    * **Submission Review Workflow**: Modified the system to support a moderation process, ensuring user-submitted data undergoes review before being publicly accessible.
+    * **Submission Management Tools**: Developed functionalities for CRUD operations on user submissions.
+    * **Search Functionality Upgrades**: Optimized search algorithms to support advanced filtering and result limiting/ordering.
+    * **Documentation Enhancement**: Updated technical documentation and online resources to provide clearer developer guidance.
+    * **Testing for Submission Methods** : Introduced tests for submission methods, covering both standard (Happy Path) and error scenarios (Error Path).
+    * **Submission Field Validation**: Implemented validation to ensure submissions fields are provided.
 
 ## 🔧 My Tech Stack
 
+<a href="(https://www.typescriptlang.org/docs/)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=40/></a>
+<a href="(https://developer.mozilla.org/en-US/docs/Web/JavaScript)"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height=40/></a>
+<a href="(https://docs.python.org/3/)"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height=40/></a>
+<a href="(https://www.postgresql.org/docs/)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" height=40/></a>
+<a href="(https://legacy.reactjs.org/docs/getting-started.html)"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=40/></a>
+<a href="(https://developer.mozilla.org/en-US/docs/Web/HTML)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height=40/></a>
+<a href="(https://developer.mozilla.org/en-US/docs/Web/CSS)"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=40/></a>
+<a href="(https://nodejs.org/en/docs)"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40/></a>
+<a href="(https://www.prisma.io/docs)"><img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height=40/></a>
+<a href="(https://graphql.org/learn/)"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=40/></a>
+<a href="(https://firebase.google.com/docs)"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=40/></a>
+<a href="(https://jestjs.io/docs/getting-started)"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=40/></a>
+<!--
 Languages:
-Languages:
-<a href="URL_FOR_TECH"><img src="URL_FOR_IMAGE" width=40/></a>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,7 +57,7 @@ Backend:
 ![Prisma](https://img.shields.io/badge/-Prisma-purple?style=flat-square&logo=prisma)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
+-->
 ## 📫 How to reach me
 
 - 📧 Email: [evan_desu@hotmail.com](mailto:evan_desu@hotmail.com)
