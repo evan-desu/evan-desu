@@ -4,7 +4,7 @@ I'm a Full Stack Developer based in Yokohama, Japan. I love building application
 
 ## 🌏 Open-Source Projects
 
-1. [Find a Doc]([https://github.com/ourjapanlife](https://github.com/ourjapanlife/findadoc-server)): Find a Doc is a database to help foreign residents of Japan find healthcare in their native languages.  
+1. [Find a Doc](https://github.com/ourjapanlife/findadoc-server): Find a Doc is a database to help foreign residents of Japan find healthcare in their native languages.  
 
     Key Responsibilities: 
     * Backend Engineer
