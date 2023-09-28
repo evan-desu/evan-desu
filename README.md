@@ -2,11 +2,19 @@
 
 I'm a Full Stack Developer based in Yokohama, Japan. I love building applications from scratch and solving problems.
 
-I'm currently working as a backend engineer on [Find a Doc, Japan](https://www.findadoc.jp/).
+## 🌏 Open-Source Projects
+
+1. [Find a Doc]([https://github.com/ourjapanlife](https://github.com/ourjapanlife/findadoc-server)): Find a Doc is a database to help foreign residents of Japan find healthcare in their native languages.  
+
+    Key Responsibilities: 
+    * Backend Engineer
+    * Building a database and API using GraphQL and Firebase
 
 ## 🔧 My Tech Stack
 
 Languages:
+Languages:
+<a href="URL_FOR_TECH"><img src="URL_FOR_IMAGE" width=40/></a>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
