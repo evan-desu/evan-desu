@@ -8,10 +8,10 @@ I'm a Full Stack Developer based in Yokohama, Japan. I love building application
 
    Technologies Used:
    
-   <a href="(https://www.typescriptlang.org/docs/)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=30/></a>
-   <a href="(https://graphql.org/learn/)"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=30/></a>
-   <a href="(https://firebase.google.com/docs)"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=30/></a>
-   <a href="(https://jestjs.io/docs/getting-started)"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=30/></a>
+   <a href="https://www.typescriptlang.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=30/></a>
+   <a href="https://graphql.org/learn/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=30/></a>
+   <a href="https://firebase.google.com/docs"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=30/></a>
+   <a href="https://jestjs.io/docs/getting-started"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=30/></a>
 
     Key Responsibilities: 
     * **Firestore Security Implementation**: Configured secure access protocols for Firestore to ensure data integrity and confidentiality of user information.
@@ -25,17 +25,17 @@ I'm a Full Stack Developer based in Yokohama, Japan. I love building application
 ## 🔧 My Tech Stack
 
 <a href="https://www.typescriptlang.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=40/></a>
-<a href="(https://developer.mozilla.org/en-US/docs/Web/JavaScript)"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height=40/></a>
-<a href="(https://docs.python.org/3/)"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height=40/></a>
-<a href="(https://www.postgresql.org/docs/)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" height=40/></a>
-<a href="(https://legacy.reactjs.org/docs/getting-started.html)"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=40/></a>
-<a href="(https://developer.mozilla.org/en-US/docs/Web/HTML)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height=40/></a>
-<a href="(https://developer.mozilla.org/en-US/docs/Web/CSS)"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=40/></a>
-<a href="(https://nodejs.org/en/docs)"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40/></a>
-<a href="(https://www.prisma.io/docs)"><img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height=40/></a>
-<a href="(https://graphql.org/learn/)"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=40/></a>
-<a href="(https://firebase.google.com/docs)"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=40/></a>
-<a href="(https://jestjs.io/docs/getting-started)"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=40/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height=40/></a>
+<a href="https://docs.python.org/3/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height=40/></a>
+<a href="https://www.postgresql.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" height=40/></a>
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=40/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height=40/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=40/></a>
+<a href="https://nodejs.org/en/docs"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40/></a>
+<a href="https://www.prisma.io/docs"><img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height=40/></a>
+<a href="https://graphql.org/learn/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=40/></a>
+<a href="https://firebase.google.com/docs"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=40/></a>
+<a href="https://jestjs.io/docs/getting-started"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=40/></a>
 <!--
 Languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
