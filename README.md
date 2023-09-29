@@ -2,62 +2,47 @@
 
 I'm a Full Stack Developer based in Yokohama, Japan. I love building applications from scratch and solving problems.
 
+## 📋 Projects
+
+[Kinjo](https://github.com/orgs/Kinjo-team/repositories): Kinjo is a travel app that empowers locals to catalogue hidden gems and local businesses in their neighbourhoods in an effort to promote community growth and sustainable travel.
+
+Key Contributions:
+   * **Attraction & Business Listing Tools**: Leveraged [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/) to develop intuitive user interfaces enabling users to search and list local attractions and businesses.
+   * **Backend Data Management System**: Utilized [Node.js](https://nodejs.org/en), [Express](https://expressjs.com/), and [Prisma](https://www.prisma.io/) with [PostgreSQL](https://www.postgresql.org/) to implement a data management system for efficient storage and retrieval of local attractions and businesses.
+   * **Cloud-Based Image Sharing**: Integrated Cloudinary to facilitate image sharing, allowing users to upload, store, and retrieve images, enhancing the visual appeal and user experience of local attraction listings.
+   * **Interactive Commenting Feature**: Implemented a dynamic commenting system enabling users to engage, share insights, and provide feedback on various locations and catalogues of attractions.
+   * **Stakeholder Communication & Product Ownership**: As the product owner, I spearheaded communication with stakeholders, ensuring their needs and feedback were accurately captured. Utilizing agile methodologies, I translated these requirements into actionable tasks, guiding the development team towards successful project milestones.
+
+
 ## 🌏 Open-Source Projects
 
-1. [Find a Doc](https://github.com/ourjapanlife/findadoc-server): Find a Doc is a database to help foreign residents of Japan find healthcare in their native languages.
+[Find a Doc](https://github.com/ourjapanlife/findadoc-server): Find a Doc is a database to help foreign residents of Japan find healthcare in their native languages.
 
-   Technologies Used:
-   
-   <a href="https://www.typescriptlang.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=30/></a>
-   <a href="https://graphql.org/learn/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=30/></a>
-   <a href="https://firebase.google.com/docs"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=30/></a>
-   <a href="https://jestjs.io/docs/getting-started"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=30/></a>
-
-    Key Responsibilities: 
-    * **Firestore Security Implementation**: Configured secure access protocols for Firestore to ensure data integrity and confidentiality of user information.
-    * **Submission Review Workflow**: Modified the system to support a moderation process, ensuring user-submitted data undergoes review before being publicly accessible.
-    * **Submission Management Tools**: Developed functionalities for CRUD operations on user submissions.
-    * **Search Functionality Upgrades**: Optimized search algorithms to support advanced filtering and result limiting/ordering.
-    * **Documentation Enhancement**: Updated technical documentation and online resources to provide clearer developer guidance.
-    * **Testing for Submission Methods** : Introduced tests for submission methods, covering both standard (Happy Path) and error scenarios (Error Path).
-    * **Submission Field Validation**: Implemented validation to ensure submissions fields are provided.
+Key Contributions:
+   * **Firestore Security Implementation**: Implemented secure protocols for [Firestore](https://firebase.google.com/docs/firestore) to safeguard user information.
+   * **Submission Review Workflow**: Modified the Firestore and [GraphQL](https://graphql.org/) integration to facilitate user data submissions, ensuring they undergo team review before being displayed on the website."
+   * **Submission Management Tools**: Wrote GraphQL queries, mutations, and resolvers to implement CRUD functionality for moderators to manage user submitted data.
+   * **Search Functionality Upgrades**: Used GraphQL and Firestore to optimize search algorithms, supporting advanced filtering and result limiting/ordering.
+   * **Documentation Enhancement**: Provided step-by-step instructions for setting up the [Firebase Service Account](https://firebase.google.com/support/guides/service-accounts) and integrating it with the project environment.
+   * **Testing for Submission Methods**: Utilized [Jest](https://jestjs.io/) to introduce tests for submission methods, covering both standard (Happy Path) and error scenarios (Error Path).
+   * **Submission Field Validation**: Implemented validation using [TypeScript](https://www.typescriptlang.org/) to ensure that submission fields are correctly provided.
 
 ## 🔧 My Tech Stack
+<span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=40/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height=40/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height=40/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" height=40/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=40/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height=40/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=40/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40/>
+<img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height=40/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=40/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=40/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=40/>
+</span>
 
-<a href="https://www.typescriptlang.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=40/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height=40/></a>
-<a href="https://docs.python.org/3/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height=40/></a>
-<a href="https://www.postgresql.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" height=40/></a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height=40/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height=40/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=40/></a>
-<a href="https://nodejs.org/en/docs"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40/></a>
-<a href="https://www.prisma.io/docs"><img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height=40/></a>
-<a href="https://graphql.org/learn/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=40/></a>
-<a href="https://firebase.google.com/docs"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=40/></a>
-<a href="https://jestjs.io/docs/getting-started"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=40/></a>
-<!--
-Languages:
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-Frontend:
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-C69?style=flat-square&logo=sass&logoColor=white)
-
-Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-grey?style=flat-square&logo=express)
-![Knex.js](https://img.shields.io/badge/-Knex-orange?style=flat-square&logo=knex)
-![Prisma](https://img.shields.io/badge/-Prisma-purple?style=flat-square&logo=prisma)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
--->
 ## 📫 How to reach me
 
 - 📧 Email: [evan_desu@hotmail.com](mailto:evan_desu@hotmail.com)
