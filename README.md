@@ -4,7 +4,7 @@ I'm a Full Stack Developer based in Yokohama, Japan. I love building application
 
 ## 📋 Projects
 
-[Kinjo](https://github.com/orgs/Kinjo-team/repositories): Kinjo is a travel app that empowers locals to catalogue hidden gems and local businesses in their neighbourhoods in an effort to promote community growth and sustainable travel.
+[Kinjo](https://github.com/orgs/Kinjo-team/repositories) | [**Live Site**](https://www.kinjo-japan.com/): Kinjo is a travel app that empowers locals to catalogue hidden gems and local businesses in their neighbourhoods in an effort to promote community growth and sustainable travel.
 
 Key Contributions:
    * **Attraction & Business Listing Tools**: Leveraged [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/) to develop intuitive user interfaces enabling users to search and list local attractions and businesses.
