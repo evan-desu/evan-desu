@@ -3,16 +3,18 @@
 I'm a Full Stack Developer based in Yokohama, Japan. I love building applications from scratch and solving problems.
 
 ## 📋 Projects
+### Kinjo
+[Website](https://www.kinjo-japan.com/)  
+[Repository](https://github.com/orgs/Kinjo-team/repositories)  
 
-[Kinjo](https://github.com/orgs/Kinjo-team/repositories) | [**Live Site**](https://www.kinjo-japan.com/): Kinjo is a travel app that empowers locals to catalogue hidden gems and local businesses in their neighbourhoods in an effort to promote community growth and sustainable travel.
+Kinjo is a travel app that empowers locals to catalogue hidden gems and local businesses in their neighbourhoods in an effort to promote community growth and sustainable travel.
 
-Key Contributions:
-   * **Attraction & Business Listing Tools**: Leveraged [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/) to develop intuitive user interfaces enabling users to search and list local attractions and businesses.
-   * **Backend Data Management System**: Utilized [Node.js](https://nodejs.org/en), [Express](https://expressjs.com/), and [Prisma](https://www.prisma.io/) with [PostgreSQL](https://www.postgresql.org/) to implement a data management system for efficient storage and retrieval of local attractions and businesses.
-   * **Cloud-Based Image Sharing**: Integrated Cloudinary to facilitate image sharing, allowing users to upload, store, and retrieve images, enhancing the visual appeal and user experience of local attraction listings.
-   * **Interactive Commenting Feature**: Implemented a dynamic commenting system enabling users to engage, share insights, and provide feedback on various locations and catalogues of attractions.
-   * **Stakeholder Communication & Product Ownership**: As the product owner, I spearheaded communication with stakeholders, ensuring their needs and feedback were accurately captured. Utilizing agile methodologies, I translated these requirements into actionable tasks, guiding the development team towards successful project milestones.
-
+**Key Contributions**:
+   * Created the database schema and implemented the relational database backend using [PostgreSQL](https://www.postgresql.org/), [Prisma](https://www.prisma.io/), [Node.js](https://nodejs.org/en), and [Express](https://expressjs.com/).
+   * Developed a predictive text search feature that filtered potential results based on information stored in the database.
+   * Created the frontend using [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/) to enable users to search and list local attractions and businesses.
+   * Created an API endpoint that allows users to submit comments through a form and renders the comments on the web app in real time.
+   * Implemented a widget to upload images to [Cloudinary](https://cloudinary.com/) and store the URLs in the database.
 
 ## 🌏 Open-Source Projects
 
