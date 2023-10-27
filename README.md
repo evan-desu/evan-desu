@@ -33,7 +33,7 @@ Find a Doc is a database to help foreign residents of Japan find healthcare in t
 
 ## 🔧 My Tech Stack
 <span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=40/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" height=40/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height=40/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height=40/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" height=40/>
@@ -42,9 +42,10 @@ Find a Doc is a database to help foreign residents of Japan find healthcare in t
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=40/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40/>
 <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height=40/>
+<img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" width=40/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=40/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=40/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=40/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=35/>
 </span>
 
 ## 📫 How to reach me
