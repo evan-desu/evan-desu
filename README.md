@@ -42,10 +42,14 @@ Find a Doc is a database to help foreign residents of Japan find healthcare in t
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height=40/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height=40/>
 <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height=40/>
-<img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" width=40/>
+<!-- <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" width=40/> -->
+<img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width=40/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height=40/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=40/>
+<!-- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" height=40/> -->
+<img src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" height=40/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width=35/>
+<img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" height=35/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07Mop95XlbgmyOS4U3Jbmvk6z7gHc6ejIMw&s" width=35/>
 </span>
 
 ## 📫 How to reach me
