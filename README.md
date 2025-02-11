@@ -1,6 +1,6 @@
 ## Hi there , I'm Evan 👋
 
-I'm a Full Stack Developer based in Yokohama, Japan. I love building applications from scratch and solving problems.
+I'm a web developer based in Yokohama, Japan. I love building applications that help people.
 
 ## 📋 Projects
 ### Kinjo
@@ -53,4 +53,4 @@ Find a Doc is a database to help foreign residents of Japan find healthcare in t
 - 📧 Email: [evan_desu@hotmail.com](mailto:evan_desu@hotmail.com)
 - 👥 LinkedIn: [Evan Peterson](https://www.linkedin.com/in/evan-peterson-desu/)
 
-## Thanks for visiting my profile. Happy coding! 👨‍💻
+## Thanks for visiting my profile!
